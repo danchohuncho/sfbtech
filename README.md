@@ -1,6 +1,6 @@
 # sfbtech
 
-test task
+This project was created for a test assignment. The main idea was to make a minimalistic app for finding and installing wallpapers on your phone.
 
 ## Getting Started
 
